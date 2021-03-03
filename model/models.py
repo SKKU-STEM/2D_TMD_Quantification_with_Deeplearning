@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from unet_parts import *
+from model.unet_parts import *
 
 class DenoisingNet(nn.Module):
     def __init__(self, in_channels = 1, out_channels = 1, hidden_channels = 64):
