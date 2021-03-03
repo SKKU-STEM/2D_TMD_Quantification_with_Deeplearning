@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import atomap.api as am
 
-from models import *
+from model.models import *
 
 def image_preprocessing(input_img, device = 'cpu'):
     input_img = (input_img - input_img.data.mean()) / input_img.data.std()
