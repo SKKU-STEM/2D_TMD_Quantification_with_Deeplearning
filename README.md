@@ -7,4 +7,4 @@ It is the code for extracting the quantitative & local information of STEM ADF i
 In 'main_test_model.ipynb' file, you can confirm the code in this project.
 
 We cannot upload the training dataset for training the model and dynamic STEM images in this research bacause the file size are too big to upload this site.
-If you want it, please contact Prof.Young-Min Kim (youngmk@skku.edu) for files.
+If you want it, please email to skkustem@gmail.com
