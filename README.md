@@ -8,6 +8,3 @@ Published in __Advanced Science__ (2021) _2101099_. http://doi.org/10.1002/advs.
 
 It is the code for extracting the quantitative & local information of STEM ADF images of 2D TMDs material(V doped WSe2 and V doped MoS2) using deep neural network.
 In 'main_test_model.ipynb' file, you can confirm the code in this project.
-
-We cannot upload the training dataset for training the model and dynamic STEM images in this research bacause the file size are too big to upload this site.
-If you want it, please email to skkustem@gmail.com
