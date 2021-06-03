@@ -6,5 +6,5 @@
 Accepted in __Advanced Science__ (2021) _2101099_. http://doi.org/10.1002/advs.202101099
 
 
-It is the code for extracting the quantitative & local information of STEM ADF images of 2D TMDs material(V doped WSe2 and V doped MoS2) using deep neural network.
+It is the code for extracting the quantitative & local information of STEM ADF images of 2D TMDs material(V doped WSe2) using deep neural network.
 In 'main_test_model.ipynb' file, you can confirm the code in this project.
